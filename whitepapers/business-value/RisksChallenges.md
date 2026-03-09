@@ -45,4 +45,8 @@ When it comes to minizing the risks from open source, it's important to take int
 
 ### Mitigating risk from using open source software
 
-The primary risks from using open source software are related to security, legal compliance and potential abandonment of the project. Security and legal issues can be addressed with 
+The primary risks from using open source software are related to security, legal compliance and potential abandonment of the project. For all three types of risks, the most important first step is to create a register of all the open source projects used in your organization, which includes a complete Software Bill of Materials (SBOM) for your software. Because using open source projects is so second-nature for most software engineers, they'll often just download and use an open source component without recording it anywhere. 
+
+There are many tools that exist to scan for open source projects and check the security and license compliance for those projects, and the same for legal compliance. The sheer number of open source projects in most organizations means that it is impossible to maintain security and compliance without tooling. 
+
+In terms of mitigating the risk from unmaintained projects, it's important to understand which projects are underresources and at risk of being abandoned as well as which projects are particularlly essential for your organization. 
