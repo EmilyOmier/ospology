@@ -40,3 +40,9 @@ There are also security problems in closed-source software.
 ## How to properly budget or allocate resources for OSPOs?
 
 ## Strategies for minimizing the risks and downsides from open source
+
+When it comes to minizing the risks from open source, it's important to take into consideration that the risks are different for each type of involvement with open source (user, contributor, editor). It's also important to consider that if you're an editor of an open source project, you're likely also a contributor and user of open source software. So you'll have to consider risk mitigation strategies for all the ways that you interact with open source software. 
+
+### Mitigating risk from using open source software
+
+The primary risks from using open source software are related to security, legal compliance and potential abandonment of the project. Security and legal issues can be addressed with 
